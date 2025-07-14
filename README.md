@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hello! I'm Arsenii
 
-<!--
-**daaa071/daaa071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Engineering student (Specialization: 123).  
+💡 Passionate about building **embedded systems**, **smart home devices**, **robots with AI**, and **modern desktop applications**.  
+⚡ I love combining hardware and software to create real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Interests
+
+- ⚙️ Embedded Systems / Arduino / IoT
+- 🧠 Robotics & AI integration
+- 🖥️ Desktop App Development (PyQt / C++ / WinAPI)
+- 🌐 Automation & Smart Home Technologies
+- 🧪 Project-based learning
+
+---
+
+## 👥 Role in a Team
+
+- 🤝 Collaborative developer who enjoys:
+  - Solving technical challenges
+  - Writing clean and efficient code
+  - Designing modular, scalable systems
+- 🛠️ Keen on both **hardware wiring** and **software architecture**
+
+---
+
+## 🧰 Tech Stack
+
+| Area               | Tools / Languages                        |
+|--------------------|------------------------------------------|
+| Programming        | C++, Python, C                           |
+| Microcontrollers   | Arduino (Uno, Nano), PlatformIO          |
+| IDEs & Tools       | VS Code, Arduino IDE, Fritzing           |
+| Electronics        | Sensors, displays, motors, modules       |
+| Desktop UI         | PyQt5, WinAPI                            |
+| Git & Versioning   | Git, GitHub                              |
+
+---
+
+## 🚀 Goals for 2025
+
+- 🔬 Complete 10 Arduino projects (progress: ✅✅✅□□□...)
+- 🌐 Build a personal desktop tool for language learning
+- 🤖 Prototype a smart robotic assistant
+- 📈 Reach German A2+ and English C1
+
+---
+
+> "Learn by building. Think beyond the tutorial." 🧠💥
